@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Invert Image</string>
+    <string name="native_inversion">Native Inversion</string>
+    <string name="renderscript_inversion">Renderscript Inversion</string>
+    <string name="native_label">Native</string>
+    <string name="renderscript_label">Renderscript</string>
+</resources>
